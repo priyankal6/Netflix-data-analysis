@@ -31,3 +31,7 @@ This project presents an interactive Netflix Movies Data Analysis Dashboard buil
 - Ranked the highest-rated action movies.
 - Identified the movies with the highest audience vote counts.
 - Developed an interactive Power BI dashboard with KPI cards, filters, and drill-down capabilities for dynamic analysis.
+
+# Dashboard used
+
+<a href = https://github.com/priyankal6/Netflix-data-analysis/blob/main/Screenshot%202026-07-08%20154024.png/a>dashboard

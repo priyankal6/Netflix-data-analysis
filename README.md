@@ -35,3 +35,15 @@ This project presents an interactive Netflix Movies Data Analysis Dashboard buil
 # Dashboard used
 
 <a href = https://github.com/priyankal6/Netflix-data-analysis/blob/main/Screenshot%202026-07-08%20154024.png/a>dashboard
+
+# Skills Demonstrated
+- Data Extraction and Querying using MySQL
+- SQL Joins, Aggregations, and Filtering
+- Data Cleaning and Transformation using Power Query
+- Data Modeling
+- DAX Measures and Calculated Columns
+- KPI Design
+- Interactive Dashboard Development
+- Business Intelligence Reporting
+- Data Visualization
+- Analytical Storytelling

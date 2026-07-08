@@ -20,3 +20,14 @@ This project presents an interactive Netflix Movies Data Analysis Dashboard buil
 # Dataset Used
 
 <a href = https://github.com/priyankal6/Netflix-data-analysis/blob/main/SQL%20project.csv/a> Dataset
+
+# Key Business Insights
+- Identified the Top 10 most popular movies based on popularity scores.
+- Determined the highest-rated movies with a minimum vote threshold to ensure reliable rankings.
+- Analyzed the distribution of movies across genres and languages.
+- Examined movie release trends by year to identify production patterns.
+- Compared the average movie rating by language.
+- Identified the most popular genres based on average popularity.
+- Ranked the highest-rated action movies.
+- Identified the movies with the highest audience vote counts.
+- Developed an interactive Power BI dashboard with KPI cards, filters, and drill-down capabilities for dynamic analysis.

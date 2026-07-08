@@ -19,14 +19,4 @@ This project presents an interactive Netflix Movies Data Analysis Dashboard buil
 
 # Dataset Used
 
-Netflix Movies Dataset
-
-The dataset contains information such as:
-
-- Movie Title
-- Genre
-- Release Year
-- Original Language
-- Popularity Score
-- Average Rating
-- Vote Count
+<a href = https://github.com/priyankal6/Netflix-data-analysis/blob/main/SQL%20project.csv/a> Dataset
